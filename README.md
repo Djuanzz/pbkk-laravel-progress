@@ -23,3 +23,8 @@ Halaman ini menampilkan beberapa artikel, artikel tersebut hanya berupa thumbnai
 
 Halaman ini menampilkan detail dari artikel yang diinginkan
 ![alt text](public/progress/03.png)
+
+### Halaman 404
+
+Halaman ini sudah menerapkan view data dan model, namun ketika halaman post yang ingin dituju itu tidak ada di data, mereturn 404
+![alt text](public/progress/04.png)
