@@ -28,3 +28,8 @@ Halaman ini menampilkan detail dari artikel yang diinginkan
 
 Halaman ini sudah menerapkan view data dan model, namun ketika halaman post yang ingin dituju itu tidak ada di data, mereturn 404
 ![alt text](public/progress/04.png)
+
+### Halaman blog dengan data dari PostFactory
+
+Halaman ini menggunakan data yang di generate dari PostFactory menggunakan library / packages faker()
+![alt text](public/progress/05.png)
