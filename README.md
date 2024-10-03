@@ -33,3 +33,8 @@ Halaman ini sudah menerapkan view data dan model, namun ketika halaman post yang
 
 Halaman ini menggunakan data yang di generate dari PostFactory menggunakan library / packages faker()
 ![alt text](public/progress/05.png)
+
+### Halaman blog yang menampilkan semua artikel yang ditulis oleh user
+
+Halaman ini menggunakan relasi antara user dan post, relasi yang digunakan adalah one to many. Pada halaman ini menampilkan semua data artikel yang ditulis oleh seorang user
+![alt text](public/progress/06.png)
