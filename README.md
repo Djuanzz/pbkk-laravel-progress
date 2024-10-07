@@ -38,3 +38,38 @@ Halaman ini menggunakan data yang di generate dari PostFactory menggunakan libra
 
 Halaman ini menggunakan relasi antara user dan post, relasi yang digunakan adalah one to many. Pada halaman ini menampilkan semua data artikel yang ditulis oleh seorang user
 ![alt text](public/progress/06.png)
+
+### Halaman yang telah di redesign
+
+Halaman ini telah menggunakan flowbite
+![alt text](public/progress/08.png)
+
+### Halaman menampilkan berdasarkan kategori
+
+![alt text](public/progress/10.png)
+
+### Halaman dengan menambahkan search bar
+
+![alt text](public/progress/11.png)
+
+### Halaman kategori dengan search bar
+
+![alt text](public/progress/09.png)
+
+### Halaman menampilkan data hasil search bar
+
+![alt text](public/progress/12.png)
+
+### Halaman dengan pagination 5 data
+
+![alt text](public/progress/13.png)
+
+### Halaman pagination dengan kategori tertentu
+
+![alt text](public/progress/14.png)
+
+### Halaman telah menerapkan withQueryString()
+
+Dengan menggunakan method withQueryString() pagination akan lebih rapi karena setelah next page dia tidak load semua ada
+
+![alt text](public/progress/15.png)
